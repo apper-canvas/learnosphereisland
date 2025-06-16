@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { ToastContainer } from 'react-toastify'
 import { motion } from 'framer-motion'
 import Layout from '@/Layout'
-import { routes } from '@/config/routes'
+import { routes } from '@/config/routes.jsx'
 
 function App() {
   return (
