@@ -1,0 +1,418 @@
+[
+  {
+    "Id": 1,
+    "courseId": 1,
+    "title": "Introduction to Sustainable Farming",
+    "type": "video",
+    "content": {
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Welcome to sustainable farming! In this introductory lesson, we'll explore what makes farming sustainable.",
+      "keyPoints": ["Environmental impact", "Economic viability", "Social responsibility"]
+    },
+    "duration": 15,
+    "order": 1
+  },
+  {
+    "Id": 2,
+    "courseId": 1,
+    "title": "Understanding Soil Health",
+    "type": "text",
+    "content": {
+      "text": "Soil health is the backbone of sustainable agriculture. Healthy soil contains billions of microorganisms that work together to create a thriving ecosystem...",
+      "images": ["https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop"],
+      "keyPoints": ["Soil composition", "Microorganism importance", "Testing methods"]
+    },
+    "duration": 20,
+    "order": 2
+  },
+  {
+    "Id": 3,
+    "courseId": 1,
+    "title": "Crop Rotation Strategies",
+    "type": "audio",
+    "content": {
+      "audioUrl": "/audio/crop-rotation.mp3",
+      "transcript": "Crop rotation is one of the oldest and most effective sustainable farming practices...",
+      "keyPoints": ["Rotation benefits", "Planning cycles", "Companion planting"]
+    },
+    "duration": 18,
+    "order": 3
+  },
+  {
+    "Id": 4,
+    "courseId": 1,
+    "title": "Water Conservation Methods",
+    "type": "video",
+    "content": {
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Learn about efficient irrigation systems and water-saving techniques for sustainable farming.",
+      "keyPoints": ["Drip irrigation", "Rainwater harvesting", "Soil moisture monitoring"]
+    },
+    "duration": 22,
+    "order": 4
+  },
+  {
+    "Id": 5,
+    "courseId": 1,
+    "title": "Natural Pest Management",
+    "type": "text",
+    "content": {
+      "text": "Integrated Pest Management (IPM) combines biological, cultural, and mechanical methods to control pests naturally...",
+      "images": ["https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop"],
+      "keyPoints": ["Beneficial insects", "Companion planting", "Organic treatments"]
+    },
+    "duration": 25,
+    "order": 5
+  },
+  {
+    "Id": 6,
+    "courseId": 1,
+    "title": "Composting Essentials",
+    "type": "video",
+    "content": {
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Master the art of composting to create nutrient-rich soil amendments for your farm.",
+      "keyPoints": ["Compost ingredients", "Turning schedule", "Temperature monitoring"]
+    },
+    "duration": 20,
+    "order": 6
+  },
+  {
+    "Id": 7,
+    "courseId": 1,
+    "title": "Season Extension Techniques",
+    "type": "text",
+    "content": {
+      "text": "Extend your growing season with greenhouses, cold frames, and row covers to maximize productivity...",
+      "images": ["https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop"],
+      "keyPoints": ["Season extension tools", "Crop selection", "Temperature management"]
+    },
+    "duration": 17,
+    "order": 7
+  },
+  {
+    "Id": 8,
+    "courseId": 1,
+    "title": "Farm Business Planning",
+    "type": "audio",
+    "content": {
+      "audioUrl": "/audio/business-planning.mp3",
+      "transcript": "A successful farm requires both agricultural knowledge and business acumen...",
+      "keyPoints": ["Market analysis", "Financial planning", "Risk management"]
+    },
+    "duration": 30,
+    "order": 8
+  },
+  {
+    "Id": 9,
+    "courseId": 2,
+    "title": "Nutrition Science Fundamentals",
+    "type": "video",
+    "content": {
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Explore the basic principles of nutrition science and how nutrients affect our health.",
+      "keyPoints": ["Macronutrients", "Micronutrients", "Metabolism basics"]
+    },
+    "duration": 18,
+    "order": 1
+  },
+  {
+    "Id": 10,
+    "courseId": 2,
+    "title": "Understanding Macronutrients",
+    "type": "text",
+    "content": {
+      "text": "Macronutrients - carbohydrates, proteins, and fats - provide the energy and building blocks your body needs...",
+      "images": ["https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&h=400&fit=crop"],
+      "keyPoints": ["Carbohydrate types", "Protein sources", "Healthy fats"]
+    },
+    "duration": 22,
+    "order": 2
+  },
+  {
+    "Id": 11,
+    "courseId": 2,
+    "title": "Micronutrients and Vitamins",
+    "type": "audio",
+    "content": {
+      "audioUrl": "/audio/micronutrients.mp3",
+      "transcript": "Vitamins and minerals may be needed in small amounts, but they play crucial roles in health...",
+      "keyPoints": ["Vitamin functions", "Mineral importance", "Deficiency signs"]
+    },
+    "duration": 20,
+    "order": 3
+  },
+  {
+    "Id": 12,
+    "courseId": 2,
+    "title": "Meal Planning Strategies",
+    "type": "video",
+    "content": {
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Learn effective meal planning techniques to maintain a balanced and nutritious diet.",
+      "keyPoints": ["Weekly planning", "Batch cooking", "Portion control"]
+    },
+    "duration": 25,
+    "order": 4
+  },
+  {
+    "Id": 13,
+    "courseId": 2,
+    "title": "Reading Nutrition Labels",
+    "type": "text",
+    "content": {
+      "text": "Understanding nutrition labels is essential for making informed food choices...",
+      "images": ["https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&h=400&fit=crop"],
+      "keyPoints": ["Serving sizes", "Daily values", "Ingredient lists"]
+    },
+    "duration": 15,
+    "order": 5
+  },
+  {
+    "Id": 14,
+    "courseId": 2,
+    "title": "Hydration and Health",
+    "type": "video",
+    "content": {
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Discover the importance of proper hydration and how to maintain optimal fluid balance.",
+      "keyPoints": ["Water needs", "Hydration signs", "Beverage choices"]
+    },
+    "duration": 12,
+    "order": 6
+  },
+  {
+    "Id": 15,
+    "courseId": 2,
+    "title": "Special Dietary Considerations",
+    "type": "text",
+    "content": {
+      "text": "Learn about nutrition considerations for different life stages and health conditions...",
+      "images": ["https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&h=400&fit=crop"],
+      "keyPoints": ["Age-related needs", "Medical conditions", "Athletic nutrition"]
+    },
+    "duration": 28,
+    "order": 7
+  },
+  {
+    "Id": 16,
+    "courseId": 2,
+    "title": "Building Healthy Habits",
+    "type": "audio",
+    "content": {
+      "audioUrl": "/audio/healthy-habits.mp3",
+      "transcript": "Sustainable health improvements come from building consistent, healthy habits...",
+      "keyPoints": ["Habit formation", "Gradual changes", "Long-term success"]
+    },
+    "duration": 24,
+    "order": 8
+  },
+  {
+    "Id": 17,
+    "courseId": 3,
+    "title": "Stock Market Overview",
+    "type": "video",
+    "content": {
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Get introduced to the stock market, its purpose, and how it functions in the economy.",
+      "keyPoints": ["Market purpose", "Key players", "Trading basics"]
+    },
+    "duration": 20,
+    "order": 1
+  },
+  {
+    "Id": 18,
+    "courseId": 3,
+    "title": "Understanding Stock Types",
+    "type": "text",
+    "content": {
+      "text": "Learn about different types of stocks, from common shares to preferred stocks and their characteristics...",
+      "images": ["https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop"],
+      "keyPoints": ["Common stocks", "Preferred stocks", "Growth vs value"]
+    },
+    "duration": 18,
+    "order": 2
+  },
+  {
+    "Id": 19,
+    "courseId": 3,
+    "title": "Market Analysis Fundamentals",
+    "type": "audio",
+    "content": {
+      "audioUrl": "/audio/market-analysis.mp3",
+      "transcript": "Market analysis involves studying price movements, company fundamentals, and economic indicators...",
+      "keyPoints": ["Technical analysis", "Fundamental analysis", "Market indicators"]
+    },
+    "duration": 25,
+    "order": 3
+  },
+  {
+    "Id": 20,
+    "courseId": 3,
+    "title": "Risk Management in Investing",
+    "type": "video",
+    "content": {
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Learn essential risk management strategies to protect your investment portfolio.",
+      "keyPoints": ["Diversification", "Stop losses", "Position sizing"]
+    },
+    "duration": 22,
+    "order": 4
+  },
+  {
+    "Id": 21,
+    "courseId": 3,
+    "title": "Building Your First Portfolio",
+    "type": "text",
+    "content": {
+      "text": "Step-by-step guide to creating a well-balanced investment portfolio suitable for beginners...",
+      "images": ["https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop"],
+      "keyPoints": ["Asset allocation", "Stock selection", "Portfolio balance"]
+    },
+    "duration": 30,
+    "order": 5
+  },
+  {
+    "Id": 22,
+    "courseId": 3,
+    "title": "Market Orders and Trading",
+    "type": "video",
+    "content": {
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Understand different types of market orders and how to execute trades effectively.",
+      "keyPoints": ["Order types", "Execution timing", "Trading platforms"]
+    },
+    "duration": 16,
+    "order": 6
+  },
+  {
+    "Id": 23,
+    "courseId": 3,
+    "title": "Reading Financial Statements",
+    "type": "text",
+    "content": {
+      "text": "Learn to analyze company financial statements to make informed investment decisions...",
+      "images": ["https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop"],
+      "keyPoints": ["Income statements", "Balance sheets", "Cash flow"]
+    },
+    "duration": 35,
+    "order": 7
+  },
+  {
+    "Id": 24,
+    "courseId": 3,
+    "title": "Long-term Investment Strategies",
+    "type": "audio",
+    "content": {
+      "audioUrl": "/audio/long-term-investing.mp3",
+      "transcript": "Successful long-term investing requires patience, discipline, and a well-thought-out strategy...",
+      "keyPoints": ["Buy and hold", "Dollar-cost averaging", "Compound growth"]
+    },
+    "duration": 28,
+    "order": 8
+  },
+  {
+    "Id": 25,
+    "courseId": 4,
+    "title": "Personal Finance Foundations",
+    "type": "video",
+    "content": {
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Establish the fundamental principles of personal financial management and planning.",
+      "keyPoints": ["Financial goals", "Money mindset", "Planning basics"]
+    },
+    "duration": 25,
+    "order": 1
+  },
+  {
+    "Id": 26,
+    "courseId": 4,
+    "title": "Creating a Budget That Works",
+    "type": "text",
+    "content": {
+      "text": "Master the art of budgeting with practical strategies that fit your lifestyle and goals...",
+      "images": ["https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&h=400&fit=crop"],
+      "keyPoints": ["Budget methods", "Expense tracking", "Budget adjustments"]
+    },
+    "duration": 30,
+    "order": 2
+  },
+  {
+    "Id": 27,
+    "courseId": 4,
+    "title": "Emergency Fund Essentials",
+    "type": "audio",
+    "content": {
+      "audioUrl": "/audio/emergency-fund.mp3",
+      "transcript": "An emergency fund is your financial safety net, providing security and peace of mind...",
+      "keyPoints": ["Fund size", "Where to save", "When to use"]
+    },
+    "duration": 20,
+    "order": 3
+  },
+  {
+    "Id": 28,
+    "courseId": 4,
+    "title": "Debt Management Strategies",
+    "type": "video",
+    "content": {
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Learn effective strategies to manage and eliminate debt while building wealth.",
+      "keyPoints": ["Debt snowball", "Debt avalanche", "Consolidation options"]
+    },
+    "duration": 28,
+    "order": 4
+  },
+  {
+    "Id": 29,
+    "courseId": 4,
+    "title": "Investment Fundamentals",
+    "type": "text",
+    "content": {
+      "text": "Begin your investment journey with fundamental concepts and beginner-friendly strategies...",
+      "images": ["https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&h=400&fit=crop"],
+      "keyPoints": ["Investment types", "Risk tolerance", "Getting started"]
+    },
+    "duration": 32,
+    "order": 5
+  },
+  {
+    "Id": 30,
+    "courseId": 4,
+    "title": "Retirement Planning Basics",
+    "type": "video",
+    "content": {
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Start planning for retirement with essential strategies and account types.",
+      "keyPoints": ["401(k) basics", "IRA options", "Retirement goals"]
+    },
+    "duration": 26,
+    "order": 6
+  },
+  {
+    "Id": 31,
+    "courseId": 4,
+    "title": "Insurance and Protection",
+    "type": "text",
+    "content": {
+      "text": "Protect your financial future with appropriate insurance coverage and risk management...",
+      "images": ["https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&h=400&fit=crop"],
+      "keyPoints": ["Insurance types", "Coverage needs", "Cost considerations"]
+    },
+    "duration": 22,
+    "order": 7
+  },
+  {
+    "Id": 32,
+    "courseId": 4,
+    "title": "Building Long-term Wealth",
+    "type": "audio",
+    "content": {
+      "audioUrl": "/audio/wealth-building.mp3",
+      "transcript": "Building wealth is a marathon, not a sprint. Learn sustainable strategies for long-term success...",
+      "keyPoints": ["Wealth principles", "Multiple income streams", "Compound interest"]
+    },
+    "duration": 35,
+    "order": 8
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 1,
+    "title": "Sustainable Farming Fundamentals",
+    "category": "agriculture",
+    "description": "Learn the basics of sustainable farming practices, from soil health to crop rotation. Perfect for beginners looking to start their agricultural journey.",
+    "thumbnail": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=400&h=250&fit=crop",
+    "duration": 480,
+    "difficulty": "Beginner",
+    "instructor": "Dr. Sarah Mitchell",
+    "lessons": [1, 2, 3, 4, 5, 6, 7, 8]
+  },
+  {
+    "Id": 2,
+    "title": "Nutrition and Wellness Essentials",
+    "category": "health",
+    "description": "Discover the fundamentals of nutrition science and how to build healthy eating habits that last a lifetime.",
+    "thumbnail": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=400&h=250&fit=crop",
+    "duration": 360,
+    "difficulty": "Beginner",
+    "instructor": "Prof. Michael Chen",
+    "lessons": [9, 10, 11, 12, 13, 14, 15, 16]
+  },
+  {
+    "Id": 3,
+    "title": "Stock Market Basics for Beginners",
+    "category": "stocks",
+    "description": "Master the fundamentals of stock market investing, from understanding market terminology to making your first investment.",
+    "thumbnail": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&h=250&fit=crop",
+    "duration": 420,
+    "difficulty": "Beginner",
+    "instructor": "James Rodriguez",
+    "lessons": [17, 18, 19, 20, 21, 22, 23, 24]
+  },
+  {
+    "Id": 4,
+    "title": "Personal Finance Mastery",
+    "category": "finance",
+    "description": "Take control of your financial future with comprehensive lessons on budgeting, saving, and investment strategies.",
+    "thumbnail": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&h=250&fit=crop",
+    "duration": 540,
+    "difficulty": "Intermediate",
+    "instructor": "Lisa Thompson",
+    "lessons": [25, 26, 27, 28, 29, 30, 31, 32]
+  },
+  {
+    "Id": 5,
+    "title": "Organic Gardening Techniques",
+    "category": "agriculture",
+    "description": "Explore advanced organic gardening methods, composting techniques, and natural pest management for thriving gardens.",
+    "thumbnail": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&h=250&fit=crop",
+    "duration": 300,
+    "difficulty": "Intermediate",
+    "instructor": "Dr. Emma Williams",
+    "lessons": [33, 34, 35, 36, 37, 38, 39, 40]
+  },
+  {
+    "Id": 6,
+    "title": "Mental Health and Mindfulness",
+    "category": "health",
+    "description": "Learn evidence-based strategies for maintaining mental wellness, managing stress, and building resilience in daily life.",
+    "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=250&fit=crop",
+    "duration": 450,
+    "difficulty": "Beginner",
+    "instructor": "Dr. Rachel Green",
+    "lessons": [41, 42, 43, 44, 45, 46, 47, 48]
+  }
+]

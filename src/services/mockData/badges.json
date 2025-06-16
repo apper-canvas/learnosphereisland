@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 1,
+    "name": "First Steps",
+    "description": "Complete your first lesson",
+    "icon": "Award",
+    "criteria": {
+      "type": "lesson_completion",
+      "count": 1
+    },
+    "earnedDate": "2024-01-10T12:00:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "Course Conqueror",
+    "description": "Complete your first course",
+    "icon": "Trophy",
+    "criteria": {
+      "type": "course_completion",
+      "courseId": 2
+    },
+    "earnedDate": "2024-01-14T14:20:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "Learning Streak",
+    "description": "Learn for 7 consecutive days",
+    "icon": "Flame",
+    "criteria": {
+      "type": "learning_streak",
+      "days": 7
+    },
+    "earnedDate": "2024-01-12T18:30:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "Agriculture Expert",
+    "description": "Complete an agriculture course",
+    "icon": "Sprout",
+    "criteria": {
+      "type": "course_completion",
+      "courseId": 1
+    },
+    "earnedDate": null
+  },
+  {
+    "Id": 5,
+    "name": "Health Champion",
+    "description": "Complete a health course",
+    "icon": "Heart",
+    "criteria": {
+      "type": "course_completion",
+      "courseId": 2
+    },
+    "earnedDate": "2024-01-14T14:20:00Z"
+  },
+  {
+    "Id": 6,
+    "name": "Finance Guru",
+    "description": "Complete a finance course",
+    "icon": "DollarSign",
+    "criteria": {
+      "type": "course_completion",
+      "courseId": 4
+    },
+    "earnedDate": null
+  }
+]

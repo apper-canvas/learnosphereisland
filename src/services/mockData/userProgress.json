@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "userId": "user-1",
+    "courseId": 1,
+    "completedLessons": [1, 2, 3],
+    "lastAccessed": "2024-01-15T10:30:00Z",
+    "percentComplete": 38
+  },
+  {
+    "Id": 2,
+    "userId": "user-1",
+    "courseId": 2,
+    "completedLessons": [9, 10, 11, 12, 13, 14, 15, 16],
+    "lastAccessed": "2024-01-14T14:20:00Z",
+    "percentComplete": 100
+  },
+  {
+    "Id": 3,
+    "userId": "user-1",
+    "courseId": 3,
+    "completedLessons": [17, 18],
+    "lastAccessed": "2024-01-13T09:15:00Z",
+    "percentComplete": 25
+  }
+]
